@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<reason>
+<result>
+    <proID>1</proID>
+    <proName>北京市</proName>
+    <pinyin>beijing</pinyin>
+    <pin>B</pin>
+    <hits>0</hits>
+</result>
+<result>
+    <proID>2</proID>
+    <proName>天津市</proName>
+    <pinyin>tianjin</pinyin>
+    <pin>T</pin>
+    <hits>0</hits>
+</result>
+</reason>
